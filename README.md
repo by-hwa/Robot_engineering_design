@@ -30,9 +30,14 @@ SolidWorks를 활용하여 로봇의 프레임과 구동부를 설계하고, 3D 
 
 <!-- 실제 AMR 사진 또는 주행 영상 추가 -->
 
-<p align="center">
-  <img src="./assets/robot_final.jpg" width="550" alt="AMR Robot"/>
-</p>
+<div align="center">
+  <video
+    src="https://github.com/user-attachments/assets/b7212e41-315a-4d19-b06e-dc2aa5fd1a68"
+    width="480"
+    controls>
+  </video>
+</div>
+
 
 ---
 
@@ -105,9 +110,10 @@ SolidWorks를 활용하여 로봇의 프레임과 구동부를 설계했습니�
 #### Hardware Assembly
 
 <p align="center">
-  <img src="./assets/hardware_assembly.jpg" width="520" alt="Hardware Assembly"/>
+  <img src="https://github.com/user-attachments/assets/baaf4098-458f-4b67-8127-519531a093e5" width="360" alt="Hardware Assembly1"/>
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/7b46e359-fe5f-4dfe-9a09-49d1b0dea4d5" width="360" alt="Hardware Assembly2"/>
 </p>
-
 
 ---
 
@@ -178,12 +184,6 @@ Arduino에서는 카메라와 초음파 센서를 통해 얻은 정보를 활용
 
 이를 통해 로봇이 주어진 경로를 따라 이동하면서 장애물에 대응할 수 있도록 주행 알고리즘을 구성했습니다.
 
-#### Line Tracking & Obstacle Avoidance
-
-<p align="center">
-  <img src="./assets/navigation.jpg" width="520" alt="Navigation Algorithm"/>
-</p>
-
 ---
 
 ### 3.3 Motor Control (NI myRIO)
@@ -248,9 +248,13 @@ FPGA에서 PWM 신호 생성과 엔코더 카운팅 기능을 구성하고, 엔�
 
 #### Robot Testing
 
-<p align="center">
-  <img src="./assets/robot_test.jpg" width="520" alt="AMR Testing"/>
-</p>
+<div align="center">
+  <video
+    src="https://github.com/user-attachments/assets/10a7d983-8ddf-4600-81b7-9053bf339614"
+    width="480"
+    controls>
+  </video>
+</div>
 
 ---
 
@@ -275,5 +279,8 @@ SolidWorks 기반 기구 설계부터 하드웨어 제작, 센서 기반 주행 
 #### Final Result
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/dca8378a-d2dd-42ea-8e55-ddca3659ff38)" width="520" alt="Final Result"/>
+  <img src="https://github.com/user-attachments/assets/e0004afc-a74e-435c-84ff-74ac52a206a4" width="520" alt="Final Result"/>
 </p>
+
+
+
